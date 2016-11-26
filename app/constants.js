@@ -1,0 +1,7 @@
+export default {
+    API_URL: 'https://api.skypicker.com/flights?v=2&locale=en&',
+    FETCH_FLIGHTS__SUCCESS: 'FETCH_FLIGHTS__SUCCESS',
+    FETCH_FLIGHTS__START: 'FETCH_FLIGHTS__START',
+    FETCH_FLIGHTS__FAIL: 'FETCH_FLIGHTS__START',
+    SEARCH_INFO_CHANGED: 'SEARCH_INFO_CHANGED'
+}

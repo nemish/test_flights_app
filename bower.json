@@ -1,0 +1,21 @@
+{
+  "name": "kiwi_test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Yaroslav Melnichuk <nemish.i.nelos@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.7"
+  }
+}
