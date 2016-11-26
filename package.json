@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack",
-    "build-prod": "NODE_ENV=1 webpack"
+    "build-prod": "NODE_ENV=1 webpack",
+    "postinstall": "bower install"
   },
   "author": "",
   "license": "ISC",
